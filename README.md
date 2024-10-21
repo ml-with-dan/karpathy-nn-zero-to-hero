@@ -9,7 +9,7 @@ This repository contains my detailed implementations of Andrej Karpathy's [Neura
 | Makemore 1 | [Bigrams](002_makemore_Bigrams/makemore_Bigrams.ipynb) | [Bigrams Exercises](002_makemore_Bigrams/bigram_exercises.ipynb)
 | Makemore 2 | [MLP](003_makemore_MLP/makemore_MLP.ipynb) | [MLP Exercises](003_makemore_MLP/MLP_exercises.ipynb) 
 | Makemore 3 | [BatchNorm](004_makemore_BatchNorm/makemore_BatchNorm.ipynb) | [BatchNorm Exercises](004_makemore_BatchNorm/BatchNorm_exercises.ipynb) 
-| Makemore 4 | [BackProp](https://github.com/chizkidd/Karpathy-Neural-Networks-Zero-to-Hero/blob/main/005_makemore_BackpropNinja/makemore_Backprop.ipynb) | --- 
+| Makemore 4 | [BackProp](005_makemore_BackpropNinja/makemore_Backprop.ipynb) | --- 
 | Makemore 5 | [Wavenet](006_makemore_WaveNet/makemore_WaveNet.ipynb) | [Wavenet Exercises](006_makemore_WaveNet/WaveNet_Exercises.ipynb)
 | GPT | [GPT](007_GPT/gpt.ipynb) | [1, 2a](007_GPT/ex1-2a.ipynb), [2b](007_GPT/ex2b.ipynb), [3](007_GPT/ex3.ipynb)
 | minBPE | [minBPE](008_minBPE/minbpe.ipynb) | ---
